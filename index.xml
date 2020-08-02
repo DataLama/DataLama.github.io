@@ -1,17 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>DataLama 블로그</title>
-        <link>https://datalama.github.io/</link>
+        <link>https://datalama.kr/</link>
         <description>김동욱의 데이터 사이언스 블로그</description>
         <generator>Hugo -- gohugo.io</generator><language>kr</language><managingEditor>kdw4521@gmail.com (DataLama)</managingEditor>
             <webMaster>kdw4521@gmail.com (DataLama)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 02 Aug 2020 08:47:46 &#43;0000</lastBuildDate>
-            <atom:link href="https://datalama.github.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://datalama.kr/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>이것은 주제목</title>
-    <link>https://datalama.github.io/first_post/</link>
+    <link>https://datalama.kr/first_post/</link>
     <pubDate>Sun, 02 Aug 2020 08:47:46 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://datalama.github.io/first_post/</guid>
+    <guid>https://datalama.kr/first_post/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://scontent-gmp1-1.xx.fbcdn.net/v/t1.0-9/11040605_872387022838401_5348585022828038374_n.png?_nc_cat=101&amp;_nc_sid=09cbfe&amp;_nc_eui2=AeELVB42MkO-X5ViJkDtHgQ0aX49tRj6PdVpfj21GPo91ZVUyO1mfr7VLIElDedndrXtqW0JX9e630Xq-Rqwceft&amp;_nc_ohc=T90azDI8rqUAX9Y55ZS&amp;_nc_ht=scontent-gmp1-1.xx&amp;oh=4ec7a37b305115f50e05534395ce7634&amp;oe=5F4E12FA" referrerpolicy="no-referrer">
             </div>이것은 나의 첫번째 게시글 테스트를 위한 것이다. 배가 고프다. 이모지 사용하는법 Gone camping! 🤗 Be back soon. 안녕 이게 toc인가? 이건??]]></description>
