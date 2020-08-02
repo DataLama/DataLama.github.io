@@ -1,17 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>My New Hugo Site</title>
-        <link>http://example.org/</link>
-        <description>My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 02 Aug 2020 08:47:46 &#43;0000</lastBuildDate>
-            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>First_post</title>
-    <link>http://example.org/posts/first_post/</link>
-    <pubDate>Sun, 02 Aug 2020 08:47:46 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/posts/first_post/</guid>
-    <description><![CDATA[이것은 나의 첫번째 게시글 테스트를 위한 것이다.
-배가 고프다.]]></description>
-</item></channel>
+        <title>DataLama 블로그</title>
+        <link>https://datalama.github.io/</link>
+        <description>김동욱의 데이터 사이언스 블로그</description>
+        <generator>Hugo -- gohugo.io</generator><language>kr</language><managingEditor>kdw4521@gmail.com (DataLama)</managingEditor>
+            <webMaster>kdw4521@gmail.com (DataLama)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+            <atom:link href="https://datalama.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
 </rss>
