@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>DataLama 블로그</title>
-        <link>https://datalama.github.io/</link>
-        <description>김동욱의 데이터 사이언스 블로그</description>
+        <title>nlp - Category - DataLama 블로그</title>
+        <link>https://datalama.github.io/categories/nlp/</link>
+        <description>nlp - Category - DataLama 블로그</description>
         <generator>Hugo -- gohugo.io</generator><language>kr</language><managingEditor>kdw4521@gmail.com (DataLama)</managingEditor>
-            <webMaster>kdw4521@gmail.com (DataLama)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 02 Aug 2020 08:47:46 &#43;0000</lastBuildDate>
-            <atom:link href="https://datalama.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>kdw4521@gmail.com (DataLama)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 02 Aug 2020 08:47:46 &#43;0000</lastBuildDate><atom:link href="https://datalama.github.io/categories/nlp/" rel="self" type="application/rss+xml" /><item>
     <title>이것은 주제목</title>
     <link>https://datalama.github.io/first_post/</link>
     <pubDate>Sun, 02 Aug 2020 08:47:46 &#43;0000</pubDate>
